@@ -86,8 +86,8 @@ export default class FeaturedConferences extends Component {
                 <i className="fas fa-user-tie"></i> Jane Doe
               </li>
             </ul>
-            <Link to="#" target="_blank" className="more-information-button">
-              Más información
+            <Link to="/conference" className="more-information-button">
+              Mostras Todos los Eventos
             </Link>
           </div>
           <div id="conference2" className="conference">
@@ -120,8 +120,8 @@ export default class FeaturedConferences extends Component {
                 <i className="fas fa-user-tie"></i> Jane Doe
               </li>
             </ul>
-            <Link to="#" target="_blank" className="more-information-button">
-              Más información
+            <Link to="/conference" className="more-information-button">
+              Mostras Todos los Eventos
             </Link>
           </div>
           <div id="conference3" className="conference">
@@ -154,8 +154,8 @@ export default class FeaturedConferences extends Component {
                 <i className="fas fa-user-tie"></i> Jane Doe
               </li>
             </ul>
-            <Link to="#" target="_blank" className="more-information-button">
-              Más información
+            <Link to="/conference" className="more-information-button">
+              Mostras Todos los Eventos
             </Link>
           </div>
         </div>
